@@ -1,2 +1,2 @@
-# CPSC530-630-Group-1-Project
-CPSC 530/630 Group #1 Final Project Code Repository
+# CPSC530-Group-1-Project
+CPSC 530 Group #1 Final Project Code Repository
